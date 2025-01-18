@@ -1,7 +1,3 @@
-Here’s a minimalist and formatted version for a GitHub README file:
-
----
-
 # 📚 SchoolE-Learning Platform  
 
 ## ✨ Overview  
