@@ -14,12 +14,12 @@ An E-learning platform designed for students in grades 9-12, focusing on **JEE**
 - 🌐 **Scalable Deployment**: Hosted on Mahatma Hansraj School’s local servers, serving **500+ active users**.  
 
 ## 🛠️ Tech Stack  
-- **PHP** ![PHP Logo](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/external-php-is-a-general-purpose-scripting-language-geared-towards-web-development-logo-shadow-tal-revivo.png)  
-- **MySQL** ![MySQL Logo](https://img.icons8.com/color/48/000000/mysql-logo.png)  
-- **Apache** ![Apache Logo](https://img.icons8.com/color/48/000000/apache.png)  
+- **PHP**
+- **MySQL**
+- **Apache** 
 - **Ajax**  
-- **jQuery** ![jQuery Logo](https://img.icons8.com/ios-filled/50/000000/jquery.png)  
-- **Bootstrap** ![Bootstrap Logo](https://img.icons8.com/color/48/000000/bootstrap.png)  
+- **jQuery** 
+- **Bootstrap** 
 
 ## 💻 Deployment  
 The platform is deployed locally on Mahatma Hansraj School’s servers in Jhansi.  
