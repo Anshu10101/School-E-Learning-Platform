@@ -1,0 +1,75 @@
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+
+
+
+
+
+#msg-box5-g .mbr-header__text {
+  color: #b8312f;
+  font-family: 'Lora', serif;
+  font-size: 36px;
+}
+#msg-box5-g .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-g .mbr-article {
+  color: #ffffff;
+}
+#msg-box1-h .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-h .mbr-article {
+  color: #fff;
+}
+#msg-box1-i .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-i .mbr-article {
+  color: #fff;
+}
+#msg-box4-3 .mbr-header__text {
+  color: #000000;
+  font-family: 'Droid Serif', serif;
+  font-size: 32px;
+}
+#msg-box4-3 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-3 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-3 .mbr-article P {
+  color: #000000;
+  text-align: left;
+}
+#msg-box4-3 .mbr-article BLOCKQUOTE {
+  color: #000000;
+  font-size: 18px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#msg-box2-b .mbr-header .mbr-header__text {
+  color: #d14841;
+  font-family: 'Lora', serif;
+}
+#msg-box2-b .mbr-article {
+  color: #252525;
+}
+#msg-box1-f .mbr-header .mbr-header__text {
+  color: #d14841;
+  font-family: 'Lora', serif;
+}
+#msg-box1-f .mbr-article {
+  color: #fff;
+}
+#footer1-8 P {
+  color: #ffffff;
+  font-size: 15px;
+}
+#msg-box1-c .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-c .mbr-article {
+  color: #fff;
+}
